@@ -1,0 +1,2 @@
+# SampleCollectionDocumetation
+:book: Insomnia documenter 
